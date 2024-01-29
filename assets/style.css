@@ -1,0 +1,33 @@
+
+header{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1%;
+  
+  color: #00eaff;
+    background-color: rgb(71, 71, 71);
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+h1{
+    padding-left: 10px;
+}
+ul ,a{
+   display: flex;
+    margin: 10px;
+    list-style: none;
+    color: #00eaff;
+    text-decoration: none;
+    
+    
+}
+
+a:hover{
+    color: white;
+    padding: 3px ;
+    text-decoration: underline 3px;
+    border: 2px solid white;
+}
+
+
