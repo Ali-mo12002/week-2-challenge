@@ -26,6 +26,6 @@
 # it also further resizes when the page is under 595px
 ![screenshot of resized project section again](/assets/screenshots/resized-project-2.png)
 
-# link to deployed page: 
+# link to deployed page: https://ali-mo12002.github.io/week-2-challenge/
 
 

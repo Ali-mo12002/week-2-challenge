@@ -318,8 +318,7 @@ h3{
     height: 70px;
 }
 .links{
-    bottom: 0px;
-    position: absolute;
+    padding-top: 35px;
 }
 .projects-234{
     height: 150px;
